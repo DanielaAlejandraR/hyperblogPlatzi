@@ -7,4 +7,5 @@ Este repositorio es parte de mi aprendizaje en el Curso Profesional de Git y Git
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
-Creado por el increible platzi team
+* Creado por el increible platzi team
+* Incluye ejemplos en windos, linux y mac 
